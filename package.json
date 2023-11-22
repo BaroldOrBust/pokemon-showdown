@@ -78,8 +78,13 @@
     "@typescript-eslint/eslint-plugin": "^5.8.0",
     "@typescript-eslint/parser": "^5.8.0",
     "eslint": "^8.5.0",
+<<<<<<< HEAD
     "mocha": "^10.2.0",
     "smogon": "^2.2.1",
+=======
+    "mocha": "^8.2.0",
+    "smogon": "^3.0.0",
+>>>>>>> 167af27c7d19bf09b531e7231c205fa627afcab4
     "typescript": "^5.0.4"
   }
 }
